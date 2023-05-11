@@ -1,2 +1,3 @@
 # win95-keygen
-- initial code commit
+
+Generates product keys for the Windows 95 OEM install
